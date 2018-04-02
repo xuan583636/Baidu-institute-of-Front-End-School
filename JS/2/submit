@@ -1,0 +1,5 @@
+在进行DOM操作中，比较有用的是document.creatElement("标签名")、document.creatTextNode("文本名称")、appendChild("");
+其可以进行增加节点的操作
+通过创建一个html的标签
+并在其中写入文本内容
+最后将其添加在节点树上
